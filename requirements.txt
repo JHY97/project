@@ -1,0 +1,16 @@
+streamlit
+PIL
+os
+time
+datetime
+torch
+tensorflow
+json
+torchvision
+numpy
+PIL
+matplotlib
+matplotlib.pyplot
+matplotlib.font_manager
+streamlit.components.v1
+pandas
